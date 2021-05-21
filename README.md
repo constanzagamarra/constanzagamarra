@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/constanzagamarra/constanzagamarra/master/banner.png" >
 
+I'm a student who is apassionate about web development . Some technologies I enjoy working with include :
+-Html 
+-Css
+-Sass
+-Angular 
+-.Net

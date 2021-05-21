@@ -24,3 +24,8 @@ I'm a student who is apassionate about web development . Some technologies I enj
 -Sass
 -Angular 
 -.Net
+
+
+I prefer frontend development over backend, but I'm giving it a chance to hook up with .
+
+# 🌱I'm currently learning ...

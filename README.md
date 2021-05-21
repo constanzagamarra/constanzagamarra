@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/constanzagamarra/constanzagamarra/master/banner.png" width="1200" height="400" >
+<img src="https://raw.githubusercontent.com/constanzagamarra/constanzagamarra/master/banner.png" width="1100"  >
 
 ## Hi, I'm Constanza ✨
 I'm a student who is apassionate about web development . Some technologies I enjoy working with include : html, css , javascript, angular , .Net and Mysql . 
@@ -43,4 +43,4 @@ I really prefer frontend development over backend, but I'm giving it a chance to
 
 <br> 
 <br>
-<img src="https://raw.githubusercontent.com/constanzagamarra/constanzagamarra/master/pie.png" width="1200">
+<img src="https://raw.githubusercontent.com/constanzagamarra/constanzagamarra/master/pie1.png" width="1100">

@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://raw.githubusercontent.com/constanzagamarra/constanzagamarra/master/banner.png" >
-# Hi, I'm Constanza ✨
+
+## Hi, I'm Constanza ✨
 I'm a student who is apassionate about web development . Some technologies I enjoy working with include : html, css , javascript, angular , .Net and Mysql .
 
 

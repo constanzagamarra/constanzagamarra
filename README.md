@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/constanzagamarra/constanzagamarra/master/banner.png" widht="1800">
+<img src="https://raw.githubusercontent.com/constanzagamarra/constanzagamarra/master/banner.png" >
 

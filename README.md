@@ -27,7 +27,16 @@ I really prefer frontend development over backend, but I'm giving it a chance to
 ## 🌱I'm currently learning 
   <ul>
     <li type="disc"> Data Science </li>
-    <li type="circle">Typescript</li>
-    <li type="square">Phyton</li>
+    <li type="disc">Typescript</li>
+    <li type="disc">Phyton</li>
    </ul>
 
+## 📫 How to reach me:
+
+<a href= "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZBVWHdCxcXGhGjgCZZzjhQkdZGpTbzJlHbghZrVQcjmCQKnKqGMJpTrpTnhKKxgNjcDWR"  target="_blank"> 
+  <img src="https://raw.githubusercontent.com/constanzagamarra/constanzagamarra/master/1.png">
+ </a>
+
+<a href= "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZBVWHdCxcXGhGjgCZZzjhQkdZGpTbzJlHbghZrVQcjmCQKnKqGMJpTrpTnhKKxgNjcDWR"  target="_blank"> 
+  <img src="https://raw.githubusercontent.com/constanzagamarra/constanzagamarra/master/2.png">
+</a>

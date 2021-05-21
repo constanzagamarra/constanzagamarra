@@ -19,9 +19,15 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/constanzagamarra/constanzagamarra/master/banner.png" >
 
 ## Hi, I'm Constanza ✨
-I'm a student who is apassionate about web development . Some technologies I enjoy working with include : html, css , javascript, angular , .Net and Mysql .
-
+I'm a student who is apassionate about web development . Some technologies I enjoy working with include : html, css , javascript, angular , .Net and Mysql . 
+I consider myself a developer in progress. 
 
 I really prefer frontend development over backend, but I'm giving it a chance to hook up with .
 
-🌱I'm currently learning Data Science. 
+## 🌱I'm currently learning 
+  <ul>
+    <li type="disc"> Data Science </li>
+    <li type="circle">Typescript</li>
+    <li type="square">Phyton</li>
+   </ul>
+

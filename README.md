@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/constanzagamarra/constanzagamarra/master/banner.png" width="1100"  >
+<!---//<img src="https://raw.githubusercontent.com/constanzagamarra/constanzagamarra/master/banner.png" width="1100"  > -->
 
 ## Hi, I'm Constanza ✨
 I'm a student who is apassionate about web development . Some technologies I enjoy working with include : html, css , javascript, angular , .Net and Mysql . 
@@ -31,16 +31,16 @@ I really prefer frontend development over backend, but I'm giving it a chance to
     <li type="disc">Phyton</li>
    </ul>
 
-## 📫 How to reach me:
+<!--//## 📫 How to reach me:
 
 <a href= "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZBVWHdCxcXGhGjgCZZzjhQkdZGpTbzJlHbghZrVQcjmCQKnKqGMJpTrpTnhKKxgNjcDWR"  target="_blank"> 
-  <img src="https://raw.githubusercontent.com/constanzagamarra/constanzagamarra/master/1.png">
- </a>
+//  <img src="https://raw.githubusercontent.com/constanzagamarra/constanzagamarra/master/1.png">
+// </a>
 
-<a href= "https://twitter.com/contig5"  target="_blank"> 
-  <img src="https://raw.githubusercontent.com/constanzagamarra/constanzagamarra/master/2.png">
-</a>
-
+//<a href= "https://twitter.com/contig5"  target="_blank"> 
+ // <img src="https://raw.githubusercontent.com/constanzagamarra/constanzagamarra/master/2.png">
+//</a>
+-->
 <br> 
 <br>
 <img src="https://raw.githubusercontent.com/constanzagamarra/constanzagamarra/master/pie1.png" width="1100">

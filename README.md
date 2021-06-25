@@ -28,7 +28,6 @@ I really prefer frontend development over backend, but I'm giving it a chance to
   <ul>
     <li type="disc"> Data Science </li>
     <li type="disc">Typescript</li>
-    <li type="disc">Phyton</li>
    </ul>
 
 <!--//## 📫 How to reach me:
